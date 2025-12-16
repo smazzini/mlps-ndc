@@ -10,4 +10,4 @@ Il catalogo nazionale della semantica dei dati, o NDC, consente:
 I file presenti in questo repository sono organizzati secondo la seguente alberatura:
 ## Licenza
 Tutti i moduli ontologici sono rilasciati sotto la licenza aperta Creative Commons Attribution 4.0.
-
+![image info](MLPSCore_fascicolo_fascicolo.png)
